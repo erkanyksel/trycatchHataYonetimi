@@ -1,0 +1,15 @@
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\bin\Debug\net7.0\trycatchHataYonetimi.exe
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\bin\Debug\net7.0\trycatchHataYonetimi.deps.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\bin\Debug\net7.0\trycatchHataYonetimi.runtimeconfig.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\bin\Debug\net7.0\trycatchHataYonetimi.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\bin\Debug\net7.0\trycatchHataYonetimi.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\obj\Debug\net7.0\trycatchHataYonetimi.csproj.AssemblyReference.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\obj\Debug\net7.0\trycatchHataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\obj\Debug\net7.0\trycatchHataYonetimi.AssemblyInfoInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\obj\Debug\net7.0\trycatchHataYonetimi.AssemblyInfo.cs
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\obj\Debug\net7.0\trycatchHataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\obj\Debug\net7.0\trycatchHataYonetimi.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\obj\Debug\net7.0\refint\trycatchHataYonetimi.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\obj\Debug\net7.0\trycatchHataYonetimi.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\obj\Debug\net7.0\trycatchHataYonetimi.genruntimeconfig.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\trycatchHataYonetimi\obj\Debug\net7.0\ref\trycatchHataYonetimi.dll
